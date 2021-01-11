@@ -2,7 +2,7 @@
 
 Want to spam your friend on Whatsapp!? then you're probably in the right place. Follow the below few steps and you're ready to go❗️
 
-<img src="https://giphy.com/embed/xdnytp8742kg0" height="750px">
+<img src="https://giphy.com/embed/xdnytp8742kg0">
 
 ## Installation
 
