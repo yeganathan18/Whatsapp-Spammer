@@ -2,8 +2,6 @@
 
 Want to spam your friend on Whatsapp!? then you're probably in the right place. Follow the below few steps and you're ready to go❗️
 
-<img src="https://media.giphy.com/media/xdnytp8742kg0/giphy.gif>
-
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary module to run the python script.
