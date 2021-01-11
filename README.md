@@ -2,6 +2,8 @@
 
 Want to spam your friend on Whatsapp!? then you're probably in the right place. Follow the below few steps and you're ready to go❗️
 
+<iframe src="https://giphy.com/embed/xdnytp8742kg0" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spam-xdnytp8742kg0">via GIPHY</a></p>
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary module to run the python script.
@@ -11,8 +13,11 @@ pip3 install selenium
 ```
 Get the chrome driver for chrome browser based on the version you have [here](https://chromedriver.chromium.org).
 
+
 ### Note
 We can also use other browsers with this python script, but before doing so install the necessary browser driver.
+
+**To know more about controlling your browser via python check this out [here](https://automatetheboringstuff.com/2e/chapter12/).**
 
 ## Usage
 
